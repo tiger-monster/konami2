@@ -1,0 +1,24 @@
+https://getbootstrap.com/docs/4.0/layout/grid/
+
+1.- Crear la carpeta de proyecto en nuestro servidor
+2.- Crear el index.php //por configuracion de apache o el servidor web 
+3.- Creamos una estructura basica de html en index 
+4.- Agregamos dependencias por medio de CDN
+	4.1.- jquery
+	4.2.- Bootstrap 4
+		4.2.1 .- bootstrap css
+		4.2.2 .- boottsrap js
+5.- Creamos la carpeta vistas y dentro el archivo tablasCrud.php
+6.- Agregamos codigo html para crear la tabla
+7.- Agregamos la clase css de bootstrap
+8.- En el archivo index.php creamos una estructura o plantilla basica de bootstrap
+	8.1.- En el archivo index.php agregamos un div con el id 		tablaCrudLoad
+9.- Agregamos estructura jquery o plantilla  
+10.- Utilizamos la funcion load de jquery para cargar la tabla que esta en vistas en la seccion del div con el id tablaCrudLoad
+
+
+nombre de las practicas
+
+nombre: nombre-ncontrol
+
+Roldan Aquino Segura
